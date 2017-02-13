@@ -8,23 +8,27 @@
 
 /* Begin PBXBuildFile section */
 		93D8C63D1E515CFA00D93800 /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = 93D8C63C1E515CFA00D93800 /* main.cpp */; };
+		93D8C6491E51618200D93800 /* input.txt in CopyFiles */ = {isa = PBXBuildFile; fileRef = 93D8C6471E51604F00D93800 /* input.txt */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
 		93D8C6371E515CFA00D93800 /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
-			buildActionMask = 2147483647;
-			dstPath = /usr/share/man/man1/;
-			dstSubfolderSpec = 0;
+			buildActionMask = 12;
+			dstPath = "";
+			dstSubfolderSpec = 7;
 			files = (
+				93D8C6491E51618200D93800 /* input.txt in CopyFiles */,
 			);
-			runOnlyForDeploymentPostprocessing = 1;
+			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
 		93D8C6391E515CFA00D93800 /* Codechef */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codechef; sourceTree = BUILT_PRODUCTS_DIR; };
 		93D8C63C1E515CFA00D93800 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
+		93D8C6461E515E0900D93800 /* FLOW06 - Sum of Digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FLOW06 - Sum of Digits.h"; path = "beginner/FLOW06 - Sum of Digits.h"; sourceTree = "<group>"; };
+		93D8C6471E51604F00D93800 /* input.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = input.txt; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,8 +62,18 @@
 			isa = PBXGroup;
 			children = (
 				93D8C63C1E515CFA00D93800 /* main.cpp */,
+				93D8C6471E51604F00D93800 /* input.txt */,
+				93D8C6481E51605600D93800 /* beginner */,
 			);
 			path = Codechef;
+			sourceTree = "<group>";
+		};
+		93D8C6481E51605600D93800 /* beginner */ = {
+			isa = PBXGroup;
+			children = (
+				93D8C6461E515E0900D93800 /* FLOW06 - Sum of Digits.h */,
+			);
+			name = beginner;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

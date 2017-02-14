@@ -6,7 +6,9 @@
 //  Copyright © 2017 Bryan Gonzales Vega. All rights reserved.
 //
 
-#include "FLOW06 - Sum of Digits.h"
+//#include "FLOW06 - Sum of Digits.h"
+//#include "HEADBOB - Tanu and Head.h"
+#include "FLOW018 - Small Factorial.h"
 
 #include <fstream>
 

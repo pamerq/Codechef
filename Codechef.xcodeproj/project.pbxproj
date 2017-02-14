@@ -25,6 +25,8 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
+		9354A3F51E52A1FF00AA88E5 /* HEADBOB - Tanu and Head.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HEADBOB - Tanu and Head.h"; path = "beginner/HEADBOB - Tanu and Head.h"; sourceTree = "<group>"; };
+		9354A3F71E52A80500AA88E5 /* FLOW018 - Small Factorial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FLOW018 - Small Factorial.h"; path = "beginner/FLOW018 - Small Factorial.h"; sourceTree = "<group>"; };
 		93D8C6391E515CFA00D93800 /* Codechef */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codechef; sourceTree = BUILT_PRODUCTS_DIR; };
 		93D8C63C1E515CFA00D93800 /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		93D8C6461E515E0900D93800 /* FLOW06 - Sum of Digits.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FLOW06 - Sum of Digits.h"; path = "beginner/FLOW06 - Sum of Digits.h"; sourceTree = "<group>"; };
@@ -72,6 +74,8 @@
 			isa = PBXGroup;
 			children = (
 				93D8C6461E515E0900D93800 /* FLOW06 - Sum of Digits.h */,
+				9354A3F51E52A1FF00AA88E5 /* HEADBOB - Tanu and Head.h */,
+				9354A3F71E52A80500AA88E5 /* FLOW018 - Small Factorial.h */,
 			);
 			name = beginner;
 			sourceTree = "<group>";
@@ -263,6 +267,7 @@
 				93D8C6421E515CFA00D93800 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

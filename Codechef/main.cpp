@@ -9,7 +9,9 @@
 //#include "FLOW06 - Sum of Digits.h"
 //#include "HEADBOB - Tanu and Head.h"
 //#include "FLOW018 - Small Factorial.h"
-#include "HS08TEST - ATM.h"
+//#include "HS08TEST - ATM.h"
+//#include "FLOW004 - First and Last Digit.h"
+#include "INTEST - Enormous Input Test.h"
 
 #include <fstream>
 

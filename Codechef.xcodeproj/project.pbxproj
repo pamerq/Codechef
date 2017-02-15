@@ -26,6 +26,8 @@
 
 /* Begin PBXFileReference section */
 		8D5245171E53E14500126035 /* HS08TEST - Atm.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "HS08TEST - Atm.h"; path = "beginner/HS08TEST - Atm.h"; sourceTree = "<group>"; };
+		8D5245181E53E26100126035 /* FLOW004 - First and Last Digit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "FLOW004 - First and Last Digit.h"; path = "beginner/FLOW004 - First and Last Digit.h"; sourceTree = "<group>"; };
+		8D5245191E53E26100126035 /* INTEST - Enormous Input Test.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = "INTEST - Enormous Input Test.h"; path = "beginner/INTEST - Enormous Input Test.h"; sourceTree = "<group>"; };
 		9354A3F51E52A1FF00AA88E5 /* HEADBOB - Tanu and Head.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "HEADBOB - Tanu and Head.h"; path = "beginner/HEADBOB - Tanu and Head.h"; sourceTree = "<group>"; };
 		9354A3F71E52A80500AA88E5 /* FLOW018 - Small Factorial.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; name = "FLOW018 - Small Factorial.h"; path = "beginner/FLOW018 - Small Factorial.h"; sourceTree = "<group>"; };
 		93D8C6391E515CFA00D93800 /* Codechef */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Codechef; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -74,6 +76,8 @@
 		93D8C6481E51605600D93800 /* beginner */ = {
 			isa = PBXGroup;
 			children = (
+				8D5245181E53E26100126035 /* FLOW004 - First and Last Digit.h */,
+				8D5245191E53E26100126035 /* INTEST - Enormous Input Test.h */,
 				8D5245171E53E14500126035 /* HS08TEST - Atm.h */,
 				93D8C6461E515E0900D93800 /* FLOW06 - Sum of Digits.h */,
 				9354A3F51E52A1FF00AA88E5 /* HEADBOB - Tanu and Head.h */,
